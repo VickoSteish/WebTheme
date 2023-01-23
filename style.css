@@ -8,10 +8,10 @@
 }
 :root{
     --black: #333;
-    --green: #017143;
+    --green: #017155;
     --white: #fff;
     --white2: #fff;
-    --black2: #333;
+    --black2: #222;
 }
 section{
     position: relative;
@@ -25,10 +25,10 @@ section{
 }
 header{
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 10;
+    left: 10;
     width: 100%;
-    padding: 10px 100px;
+    padding: 15px 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
